@@ -1,6 +1,6 @@
 # 🚘 Sarasota Exotic Vault – Luxury Car Marketplace
 
-![Sarasota Exotic Vault Banner](https://github.com/Syedaaneesa/sara-sota/blob/main/Buy-A-Car-%E2%80%93-Sarasota-Exotic-Vault-10-07-2025_10_40_PM.png)
+![Sarasota Exotic Vault Banner](https://github.com/Syedaaneesa/sara-sota/blob/main/Sarasota-Exotic-Vault-%E2%80%93-Exotic-Luxury-Car-Rental-in-Sarasota-10-07-2025_10_13_PM.png)
 
 ## 🌐 Live Website
 **URL:** [https://sarasotaexoticvault.com/](https://sarasotaexoticvault.com/)  
@@ -66,7 +66,7 @@ This project demonstrates:
 
 ## 📸 Project Screenshots
 
-| Screenshot 
+| Screenshots |
 |-------------|--------------|
 | ![Screenshot 6](https://github.com/Syedaaneesa/sara-sota/blob/main/Rent-A-Car-%E2%80%93-Sarasota-Exotic-Vault-10-07-2025_10_15_PM.png)
 | ![Screenshot 1](https://github.com/Syedaaneesa/sara-sota/blob/main/Buy-A-Car-%E2%80%93-Sarasota-Exotic-Vault-10-07-2025_10_40_PM.png) 
