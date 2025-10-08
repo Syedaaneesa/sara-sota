@@ -69,7 +69,7 @@ This project demonstrates:
 | Screenshot | Description |
 |-------------|--------------|
 | ![Homepage](https://github.com/Syedaaneesa/sara-sota/blob/main/Buy-A-Car-%E2%80%93-Sarasota-Exotic-Vault-10-07-2025_10_40_PM.png) | Homepage |
-| ![Screenshot 2](https://github.com/Syedaaneesa/sara-sota/blob/main/your-second-image.png) | Car Listings Section |
+| ![Screenshot 2](https://github.com/Syedaaneesa/sara-sota/blob/main/Chauffeurs-%E2%80%93-Sarasota-Exotic-Vault-10-07-2025_10_42_PM.png) | Car Listings Section |
 | ![Screenshot 3](https://github.com/Syedaaneesa/sara-sota/blob/main/your-third-image.png) | Single Car Detail Page |
 | ![Screenshot 4](https://github.com/Syedaaneesa/sara-sota/blob/main/your-fourth-image.png) | About Us Section |
 | ![Screenshot 5](https://github.com/Syedaaneesa/sara-sota/blob/main/your-fifth-image.png) | Contact / Inquiry Page |
