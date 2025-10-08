@@ -77,7 +77,7 @@ This project demonstrates:
 | ![Screenshot 7](https://github.com/Syedaaneesa/sara-sota/blob/main/Rent-A-Car-%E2%80%93-Sarasota-Exotic-Vault-10-07-2025_10_30_PM.png) 
 | ![Screenshot 8](https://github.com/Syedaaneesa/sara-sota/blob/main/Sarasota-Exotic-Vault-%E2%80%93-Exotic-Luxury-Car-Rental-in-Sarasota-10-07-2025_10_13_PM.png) 
 | ![Screenshot 9](https://github.com/Syedaaneesa/sara-sota/blob/main/Sarasota-Exotic-Vault-%E2%80%93-Exotic-Luxury-Car-Rental-in-Sarasota-10-07-2025_10_14_PM.png) 
-> *(Replace each `your-image.png` with your actual uploaded filenames in your repository.)*
+>
 
 ---
 
