@@ -66,7 +66,7 @@ This project demonstrates:
 
 ## 📸 Project Screenshots
 
-| Screenshot | Description |
+| Screenshot 
 |-------------|--------------|
 | ![Screenshot 6](https://github.com/Syedaaneesa/sara-sota/blob/main/Rent-A-Car-%E2%80%93-Sarasota-Exotic-Vault-10-07-2025_10_15_PM.png)
 | ![Screenshot 1](https://github.com/Syedaaneesa/sara-sota/blob/main/Buy-A-Car-%E2%80%93-Sarasota-Exotic-Vault-10-07-2025_10_40_PM.png) 
