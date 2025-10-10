@@ -108,5 +108,15 @@ Screenshots
 
 ---
 
+## 📬 Contact
+
+If you’re interested in WordPress website design, Elementor customization, or full project development — feel free to reach out!
+
+**👤 Developer:** Syeda Aneesa  
+**📧 Email:** saneesa@zeestmedia.com]  
+**🌍 Portfolio:** https://aneesa.zeestmedia.com
+
+---
+
 ⭐ *If you like this project, don’t forget to star the repository and show your support!*
 
