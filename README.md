@@ -5,14 +5,13 @@
 ## 🌐 Live Website
 **URL:** [https://sarasotaexoticvault.com/](https://sarasotaexoticvault.com/)  
 
-A premium, fully customized WordPress website developed for Sarasota Exotic Vault, a high-end dealership specializing in luxury, sports, and exotic cars.
+A fully tailored, high-end WordPress website created for Sarasota Exotic Vault, a luxury dealership featuring premium sports and exotic vehicles.
 
 ---
 
 ## 💡 Project Overview
 
-Sarasota Exotic Vault — A sleek, high-performance website built to reflect the sophistication and prestige of luxury car brands. It delivers a smooth, intuitive browsing experience for customers exploring and purchasing exotic vehicles.
-
+Sarasota Exotic Vault — A polished, high-performance website designed to mirror the elegance and exclusivity of top luxury car brands. It offers a seamless, user-friendly browsing experience for customers looking to explore and purchase exotic vehicles.
 This project demonstrates:
 - Advanced **WordPress customization**
 - **Elementor Pro**-based responsive design
