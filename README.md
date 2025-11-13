@@ -9,7 +9,7 @@ A bespoke, high-performance WordPress website developed for Sarasota Exotic Vaul
 ---
 
 ## 💡 Project Overview
-Sarasota Exotic Vault — a sleek, high-performance website crafted to reflect the luxury, prestige, and exclusivity of elite automotive brands. It delivers a seamless and intuitive experience for users exploring premium exotic vehicles.
+Sarasota Exotic Vault — a modern, high-performance website built to showcase the luxury, elegance, and exclusivity of top-tier automotive brands. It provides a smooth, intuitive experience for users exploring premium exotic cars.
 - Advanced **WordPress customization**
 - **Elementor Pro**-based responsive design
 - Strong focus on **UI/UX and performance**
@@ -54,9 +54,8 @@ Sarasota Exotic Vault — a sleek, high-performance website crafted to reflect t
 - Conducted performance testing and SEO setup.
 
 ### 5️⃣ Testing & Deployment  
-Conducted extensive compatibility testing to guarantee flawless performance across all devices and browsers.
-
-Deployed the website to live hosting with final optimizations and performance enhancements for maximum speed.
+Performed thorough compatibility testing to ensure perfect functionality on all devices and browsers.
+Launched the website on live hosting with final optimizations and speed enhancements for top performance.
 
 ---
 
