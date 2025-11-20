@@ -45,9 +45,7 @@ Sarasota Exotic Vault — a sleek, high-performance website designed to highligh
 - Applied custom CSS styling for unique layout control.
 
 ### 3️⃣ Content Integration  
-Added visually engaging content and high-quality images
-
-Integrated car listing grids, detailed vehicle pages, and inquiry buttons
+This project presents a fully customized WordPress website for Alpine Cottage Bed & Breakfast, designed to highlight their cozy accommodations and warm hospitality through an elegant, user-friendly layout.
 
 ### 4️⃣ Optimization & Responsiveness  
 - Optimized images and scripts for fast loading speed.  
@@ -55,9 +53,9 @@ Integrated car listing grids, detailed vehicle pages, and inquiry buttons
 - Conducted performance testing and SEO setup.
 
 ### 5️⃣ Testing & Deployment  
-Added visually engaging content and high-quality images
+Added visually appealing content along with high-quality images
 
-Integrated car listing grids, detailed vehicle pages, and inquiry buttons
+Implemented car listing grids, detailed vehicle pages, and inquiry buttons
 
 ---
 
