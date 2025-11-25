@@ -9,7 +9,7 @@ A bespoke, high-performance WordPress website developed for Sarasota Exotic Vaul
 ---
 
 ## 💡 Project Overview
-Sarasota Exotic Vault — a sleek, high-performance website designed to highlight the luxury, sophistication, and exclusivity of premium automotive brands. It delivers a smooth, intuitive browsing experience for users exploring exotic vehicles.
+Sarasota Exotic Vault — a sleek, high-performance website crafted to showcase the luxury, sophistication, and exclusivity of premium automotive brands. It offers a smooth, intuitive browsing experience for users exploring exotic vehicles.
 - Advanced **WordPress customization**
 - **Elementor Pro**-based responsive design
 - Strong focus on **UI/UX and performance**
@@ -45,7 +45,7 @@ Sarasota Exotic Vault — a sleek, high-performance website designed to highligh
 - Applied custom CSS styling for unique layout control.
 
 ### 3️⃣ Content Integration  
-This project features a fully customized WordPress website for Alpine Cottage Bed & Breakfast, designed to showcase their cozy accommodations and warm hospitality through a clean, user-friendly layout.
+This project showcases a fully customized WordPress website for Alpine Cottage Bed & Breakfast, designed to highlight their cozy accommodations and warm hospitality through a clean, user-friendly layout.
 
 ### 4️⃣ Optimization & Responsiveness  
 Optimized images and scripts to enhance loading speed.
