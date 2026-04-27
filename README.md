@@ -105,7 +105,7 @@ Screenshots
 ✅ Clear and organized navigation to boost user engagement
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Developed by:** [Syeda Aneesa](https://github.com/Syedaaneesa)  
 **Project Type:** Freelance / Custom WordPress Project  
@@ -113,15 +113,15 @@ Screenshots
 
 ---
 
-## 📬 Contact
+##  Contact
 
 If you need WordPress design, Elementor customization, or complete website development, I’d be happy to help—feel free to get in touch!
 
-**👤 Developer:** Syeda Aneesa  
-**📧 Email:** saneesa@zeestmedia.com]  
-**🌍 Portfolio:** https://aneesa.zeestmedia.com
+** Developer:** Syeda Aneesa  
+** Email:** saneesa@zeestmedia.com]  
+** Portfolio:** https://aneesa.zeestmedia.com
 
 ---
 
-⭐ *If you like this project, don’t forget to star the repository and show your support!*
+ *If you like this project, don’t forget to star the repository and show your support!*
 
