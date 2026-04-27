@@ -1,16 +1,16 @@
-# 🚘 Sarasota Exotic Vault – The Ultimate in Luxury and Performance
+#  Sarasota Exotic Vault – The Ultimate in Luxury and Performance
 
 
 
 ![Sarasota Exotic Vault Banner](https://github.com/Syedaaneesa/sara-sota/blob/main/Sarasota-Exotic-Vault-%E2%80%93-Exotic-Luxury-Car-Rental-in-Sarasota-10-07-2025_10_13_PM.png)
 
-## 🌐 Live Website
+##  Live Website
 **URL:** [https://sarasotaexoticvault.com/](https://sarasotaexoticvault.com/)  
 
 A custom, high-performance WordPress website built for Sarasota Exotic Vault, a premier luxury dealership specializing in exotic and elite sports cars.
 ---
 
-## 💡 Project Overview
+##  Project Overview
 A custom, high-performance WordPress website built for Sarasota Exotic Vault, a premier luxury dealership specializing in exotic and elite sports cars.
 - Advanced **WordPress customization**
 - **Elementor Pro**-based responsive design
@@ -19,7 +19,7 @@ A custom, high-performance WordPress website built for Sarasota Exotic Vault, a 
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 | Category | Tools / Technologies |
 |-----------|----------------------|
@@ -33,15 +33,15 @@ A custom, high-performance WordPress website built for Sarasota Exotic Vault, a 
 
 ---
 
-## 🎨 Design & Development Process
+##  Design & Development Process
 
-### 1️⃣ Planning & Strategy  
+### 1: Planning & Strategy  
 Performed a comprehensive analysis of the client’s luxury and exotic automotive market.
 
 Crafted a premium dark-themed interface accented with gold highlights to evoke elegance and sophistication.
 
 Developed a clear, structured sitemap to support smooth navigation and an intuitive user experience.
-### 2️⃣ Development & Customization  
+### 2: Development & Customization  
 Installed and configured WordPress, integrating essential plugins to ensure optimal site performance.
 
 Created fully custom Elementor page templates tailored to the unique requirements of each site section.
@@ -50,24 +50,24 @@ Implemented custom post types for vehicle listings, enabling dynamic and flexibl
 
 Applied custom CSS to achieve precise layout control and a distinctive, branded design.
 
-### 3️⃣ Content Integration  
+### 3: Content Integration  
 A fully customized WordPress website for Alpine Cottage Bed & Breakfast, designed to highlight comfortable accommodations and a welcoming ambiance with an intuitive, user-friendly interface.
 
-### 4️⃣ Optimization & Responsiveness  
+### 4: Optimization & Responsiveness  
 Optimized images and scripts to improve overall site speed and loading performance.
 
 Maintained a consistent, fully responsive design across all devices and screen sizes.
 
 Conducted performance testing and implemented key SEO optimizations to enhance search visibility.
 
-### 5️⃣ Testing & Deployment  
+### 5: Testing & Deployment  
 Incorporated engaging content paired with high-quality imagery
 
 Built car listing grids, detailed vehicle pages, and inquiry buttons to enable smooth user interaction
 
 ---
 
-## 📸 Project Screenshots
+##  Project Screenshots
 
 Screenshots 
   ![Screenshot 6](https://github.com/Syedaaneesa/sara-sota/blob/main/Rent-A-Car-%E2%80%93-Sarasota-Exotic-Vault-10-07-2025_10_15_PM.png)
