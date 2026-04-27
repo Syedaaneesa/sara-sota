@@ -83,7 +83,7 @@ Screenshots
 
 ---
 
-## 💪 My Efforts & Contributions
+##  My Efforts & Contributions
 
 - Designed and developed **every page from scratch** using Elementor Pro.  
 - Implemented **custom post types** for dynamic car management.  
@@ -93,16 +93,16 @@ Screenshots
 
 ---
 
-## 🚀 Final Results
-✅ Fully responsive, high-performance WordPress website
+##  Final Results
+ Fully responsive, high-performance WordPress website
 
-✅ Sleek, modern UI/UX design with a focus on luxury and refinement
+ Sleek, modern UI/UX design with a focus on luxury and refinement
 
-✅ Fast-loading, SEO-optimized pages for better visibility and performance
+ Fast-loading, SEO-optimized pages for better visibility and performance
 
-✅ Intuitive WordPress admin dashboard for easy content management
+ Intuitive WordPress admin dashboard for easy content management
 
-✅ Clear and organized navigation to boost user engagement
+ Clear and organized navigation to boost user engagement
 ---
 
 ##  Author
