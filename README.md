@@ -51,7 +51,7 @@ Implemented custom post types for vehicle listings, enabling dynamic and flexibl
 Applied custom CSS to achieve precise layout control and a distinctive, branded design.
 
 ### 3: Content Integration  
-A fully customized WordPress website for Alpine Cottage Bed & Breakfast, designed to highlight comfortable accommodations and a welcoming ambiance with an intuitive, user-friendly interface.
+A fully customized WordPress website for Alpine Cottage Bed & Breakfast, thoughtfully designed to showcase cozy accommodations, a warm and welcoming atmosphere, and a seamless user experience with an intuitive, user-friendly interface.
 
 ### 4: Optimization & Responsiveness  
 Optimized images and scripts to improve overall site speed and loading performance.
