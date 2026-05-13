@@ -115,7 +115,7 @@ Screenshots
 
 ##  Contact
 
-If you need WordPress design, Elementor customization, or complete website development, I’d be happy to help—feel free to get in touch!
+Need a professional WordPress website, Elementor customization, or a complete website solution? I’d be happy to help feel free to get in touch!
 
 ** Developer:** Syeda Aneesa  
 ** Email:** saneesa@zeestmedia.com]  
