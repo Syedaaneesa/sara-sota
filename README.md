@@ -7,7 +7,6 @@
 ##  Live Website Link
 **URL:** [https://sarasotaexoticvault.com/](https://sarasotaexoticvault.com/)  
 
-A custom, high-performance WordPress website built for Sarasota Exotic Vault, a premier luxury dealership specializing in exotic and elite sports cars.
 ---
 
 ##  Project Overview
