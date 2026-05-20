@@ -107,7 +107,9 @@ Screenshots
 ##  Author
 
 **Developed by:** [Syeda Aneesa](https://github.com/Syedaaneesa)  
+
 **Project Type:** Freelance / Custom WordPress Project  
+
 **Date Completed:** July 2025  
 
 ---
