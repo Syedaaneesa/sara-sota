@@ -10,7 +10,8 @@
 ---
 
 ##  Project Overview
-A custom, high-performance WordPress website built for Sarasota Exotic Vault, a premier luxury dealership specializing in exotic and elite sports cars.
+A custom, high-performance WordPress website built for Sarasota Exotic Vault, a premier luxury dealership specializing in exotic and high-end sports cars.
+
 - Advanced **WordPress customization**
 - **Elementor Pro**-based responsive design
 - Strong focus on **UI/UX and performance**
