@@ -124,9 +124,9 @@ Scalable and secure development built to support future growth and evolving busi
 
 Need a professional WordPress website, Elementor customization, or a complete website solution? I’d be happy to help feel free to get in touch!
 
-** Developer:** Syeda Aneesa  
-** Email:** saneesa@zeestmedia.com]  
-** Portfolio:** https://aneesa.zeestmedia.com
+**Developer:** Syeda Aneesa  
+**Email:** saneesa@zeestmedia.com]  
+**Portfolio:** https://aneesa.zeestmedia.com
 
 ---
 
