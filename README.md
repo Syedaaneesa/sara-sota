@@ -2,7 +2,7 @@
 
 
 
-![Sarasota Exotic Vault Banner](https://github.com/Syedaaneesa/sara-sota/blob/main/Sarasota-Exotic-Vault-%E2%80%93-Exotic-Luxury-Car-Rental-in-Sarasota-10-07-2025_10_13_PM.png)
+![Sarasota Exotic Vault Banner](https://raw.githubusercontent.com/Syedaaneesa/sara-sota/main/Sarasota-Exotic-Vault-%E2%80%93-Exotic-Luxury-Car-Rental-in-Sarasota-10-07-2025_10_13_PM.png)
 
 ##  Live Website Link
 **URL:** [https://sarasotaexoticvault.com/](https://sarasotaexoticvault.com/)  
